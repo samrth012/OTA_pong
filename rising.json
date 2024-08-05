@@ -1,0 +1,28 @@
+{
+        "response": [
+                {
+                        "maintainer": "Samrth",
+                        "oem": "",
+                        "device": "",
+                        "filename": "RisingOS-4.1-RELEASE-20240728-GAPPS-OFFICIAL-Pong-ota-signed.zip",
+                        "download": "https://sourceforge.net/projects/roms-pong/files/RisingOS/RisingOS-4.1-RELEASE-20240728-GAPPS-OFFICIAL-Pong-ota-signed.zip/download",
+                        "timestamp": 1722177657,
+                        "md5": "0b01ac47e7d6923dbd6482ae85cfc11e",
+                        "sha256": "467241777ca04ae5c5e30d34552effacc122aeda8b2f49485f47b8b814e54acd",
+                        "size": 2827392146,
+                        "version": "4.1-Kailash",
+                        "buildtype": "RELEASE",
+                        "forum": "",
+                        "gapps": "",
+                        "firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "",
+                        "paypal": "",
+                        "telegram": "",
+                        "dt": "",
+                        "common-dt": "",
+                        "kernel": ""
+                }
+        ]
+}
