@@ -1,1 +1,24 @@
-
+{                                                                                                                                                                            "response": [
+                {
+                        "maintainer": "Samrth",
+                        "oem": "Nothing",
+                        "device": "",
+                        "filename": "RisingOS-4.2-RELEASE-20240806-VANILLA-COMMUNITY-Pong-ota-signed.zip",
+                        "download": "https://billowing-pine-c827d3ss323d2827910.vimalrajbalaji.workers.dev/0:findpath?id=1xZcgQ822CYqM2CagGCF1ttfS7GJto_Lo",
+                        "timestamp": 1722933718,
+                        "md5": "04df8a27d7329c1a160808647c1048d1",
+                        "sha256": "3102f1ebe1bece4fdba6551f3e9a36b64483629c0dab8ec19de022c8e36c2612",
+                        "size": 1981202171,
+                        "version": "4.2-Kailash",
+                        "buildtype": "Monthly",
+                        "forum": "",
+                        "gapps": "",
+                        "firmware": "",                                                                                                                                                      "modem": "",
+                        "bootloader": "",
+                        "recovery": "",
+                        "paypal": "",                                                                                                                                                        "telegram": "",
+                        "dt": "",
+                        "common-dt": "",
+                        "kernel": ""                                                                                                                                                 }
+        ]
+}
