@@ -1,16 +1,14 @@
 {
         "response": [
                 {
-                        "maintainer": "",
+                        "maintainer": "Samrth",
                         "oem": "",
                         "device": "",
-                        "filename": "RisingOS-4.2-RELEASE-20240806-GAPPS-COMMUNI
-TY-Pong-ota-signed.zip",
-                        "download": "",
+                        "filename": "RisingOS-4.2-RELEASE-20240806-GAPPS-COMMUNITY-Pong-ota-signed.zip",
+                        "download": "https://billowing-pine-c827d3ss323d2827910.vimalrajbalaji.workers.dev/0:findpath?id=101hHdvljn-7UFhx-csE0Gt1z3a__1LBK",
                         "timestamp": 1722924908,
                         "md5": "6e3765b6643ffb366444b67956f9f2dc",
-                        "sha256": "d624e53e2b95e9e1495deb20b521677188af4165da38a
-340cf1ef7799501bca2",
+                        "sha256": "d624e53e2b95e9e1495deb20b521677188af4165da38a340cf1ef7799501bca2",
                         "size": 2822852676,
                         "version": "4.2-Kailash",
                         "buildtype": "",
